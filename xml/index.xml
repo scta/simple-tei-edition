@@ -20,6 +20,7 @@
       <body>
          <p>Some text here.</p>
          <p>This is a <choice><orig>tst</orig><reg>test</reg></choice>!</p>
+<p>Another paragraph</p>
       </body>
   </text>
 </TEI>
