@@ -21,6 +21,7 @@
          <p>Some text here.</p>
          <p>This is a <choice><orig>tst</orig><reg>test</reg></choice>!</p>
 <p>Another paragraph</p>
+<p>Another Paragraph at 4:52pm</p>
       </body>
   </text>
 </TEI>
