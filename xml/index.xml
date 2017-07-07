@@ -19,7 +19,7 @@
   <text>
       <body>
          <p>Some text here.</p>
-<p>This is a<choice><orig>tst</orig><reg>test</reg></choice>!</p>
+         <p>This is a <choice><orig>tst</orig><reg>test</reg></choice>!</p>
       </body>
   </text>
 </TEI>
