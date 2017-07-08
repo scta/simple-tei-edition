@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p>Some text here. Test change testfile2.xml</p>
          <figure>
             <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
          </figure>
