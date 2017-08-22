@@ -100,7 +100,36 @@
             </app>
 
               ponitur reprehensio invidorum in
-            detrahendo. In tertia ponitur commendatio operis in prosequendo. In quarta ponitur
+            detrahendo. In
+            <app>
+              <lem>tertia ponitur</lem>
+              <rdg wit="#L" type="variation-inversion">
+                <seg>ponitur</seg>
+                <seg>tertia</seg>
+              </rdg>
+            </app>
+            commendatio operis
+            <app>
+              <lem>in prosequendo</lem>
+              <rdg wit="#L" type="correction-transposition">
+                <subst>
+                  <del>prosequendo in</del>
+                  <add>in prosequendo</add>
+                </subst>
+              </rdg>
+            </app>.
+            In
+            <app>
+              <lem>quarta</lem>
+              <rdg wit="#L" type="variation-choice">
+              <choice>
+                <seg>secunda</seg>
+                <seg>quarta</seg>
+              </choice>
+            </rdg>
+            <witDetail wit="#L">cum 3 litteris rasibus</witDetail>
+            </app>
+            ponitur
             <app>
               <lem type="conjecture-corrected"><corr>excitatio</corr></lem>
               <rdg wit="#L">exitatio</rdg>
@@ -109,7 +138,14 @@
                 more closely matches the use of "excitantem" in the same context below.
               </note>
             </app>
-            auditorum in proficiendo. Secunda ibi
+            auditorum in proficiendo.
+            <app>
+              <lem>Secunda</lem>
+              <rdg wit="#L" type="manual">
+                secunda <desc>corr. interl. ex</desc> secundum <wit>V</wit>
+            </rdg>
+            </app>
+            ibi
             <cit>
               <quote xml:id="pg-b1q1-Qd1e3757" source="http://scta.info/resource/pll1prol-qnavet">quamvis non ambigamus</quote>
               <bibl><ref target="http://scta.info/resource/pll1prol-qnavet">Lombardus, Sent. I, prol., [n. 3], (I, 3, ll. 16).</ref></bibl>

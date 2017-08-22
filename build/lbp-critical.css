@@ -458,6 +458,9 @@ tei-custodialHist {
 tei-date[data-tei-when]:empty:before {
   content: attr(when);
 }
+tei-desc {
+  font-style: italic;
+}
 /* e */
 tei-editionStmt {
   display:block;
@@ -1788,7 +1791,6 @@ tei-width {
 }
 tei-wit {
   /* Empty Rule Set */
-  display: none;
 }
 tei-witDetail {
   display:none;
@@ -1829,13 +1831,18 @@ html {
   color: #292929;
 }
 
-.info {
-  text-indent: 4.5em;
+.info-wrapper {
   margin-left: -4.5em;
   position: fixed;
   background-color: lightgray;
   color: black;
-  top: 90%;
+  top: 80%;
   height: 20%;
   width: 100%;
+
+}
+.info{
+  margin-left: -4.5em;
+  width: 60%;
+  margin: auto;
 }
