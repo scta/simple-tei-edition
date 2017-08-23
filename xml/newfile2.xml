@@ -18,13 +18,10 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
-         <p>This is a <choice><orig>tst</orig><reg>test</reg></choice>!</p>
-<p>Another paragraph</p>
-<p>Another Paragraph at 4:52pm</p>
-<p>Another Paragraph at 5:05pm</p>
-<p>Another Paragraph at 8:36pm</p>
-<p>Another paragraph at 12:28pm</p>
+         <p>Some text here. Test change testfile2.xml</p>
+         <figure>
+            <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+         </figure>
       </body>
   </text>
 </TEI>
