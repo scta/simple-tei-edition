@@ -19,6 +19,32 @@
   <text>
       <body>
          <p>Some text here.</p>
+         <p>This is a <choice><orig>tst</orig><reg>test</reg></choice>!</p>
+         <p>practice </p>
+<p>Another paragraph</p>
+<p>Another Paragraph at 4:52pm</p>
+<p>Another Paragraph at 5:05pm</p>
+<p>Another Paragraph at 8:36pm</p>
+<p>Another paragraph at 12:28pm</p>
+<p>Another paragraph at 5:28pm</p>
+<p>Another paragraph at 5:36pm</p>
+<p>Another paragraph at 8:22pm</p>
+<p>Another paragraph at 10:41am</p>
+<p>Production test at 10:51am</p>
+<p>This is another Test 10:26am on 7/12</p>
+<p>This is another Test 11:41 am on 7/13</p>
+<p>Test at 8:32pm</p>
+<p>Another paragraph at 8:47 on Friday 7/14</p>
+<p>Another paragraph at 9:24 on Friday 7/14</p>
+<p>Another paragraph at 9:29 on Friday 7/14</p>
+<p>Another paragraph at 9:35 on Friday 7/14</p>
+<p>Another paragraph at 9:36 on Friday 7/14</p>
+<p>Another paragraph at 1:03pm on Friday 7/14</p>
+<p>Another paragraph at 7:05pm on Friday 7/14</p>
+<p>Another paragraph at 1:14pm on Friday 7/15tsts</p>
+<p>Test at 8:11pm</p>
+<p>Test at 8:14pm</p>
+<p>Test at 8:17pm</p>
       </body>
   </text>
 </TEI>
