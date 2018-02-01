@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Corpus ADSO: análisis distante del soneto castellano del Siglo de Oro</title>
+                <principal>Borja Navarro Colorado</principal>
+                <funder>Ayuda BBVA a equipos de investigación científica 2016. Proyecto ADSO: análisis distante del soneto castellano del Siglo de Oro.</funder>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad de Alicante</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <author/>
+                    <editor/>
+                    <publisher>Web Service</publisher>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <metDecl xml:id="bncolorado" type="met" pattern="(\+|\-)+)">
+                <metSym value="+">sílaba tónica</metSym>
+                <metSym value="-">sílaba átona</metSym>
+            </metDecl>
+            <metDecl>
+                <p>Todos los patrones métricos han sido extraídos automáticamente con el sistema de escansión del proyecto ADSO</p>
+            </metDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>
+                <title/>
+            </head>
+            <lg>
+                <l n="1" met="--+--+-+-+-">Claro Blason, que alientas vna vida</l>
+                <l n="2" met="-+---+---+-">Alcides envidiado de la fama</l>
+                <l n="3" met="-+-+-+---+-">Rodulfo ceda a ti, pues que su llama</l>
+                <l n="4" met="--+--+---+-">La Religion la ve mas encendida</l>
+                <l n="5" met="-----+---+-">Obsequiosa de Daphne, repetida</l>
+                <l n="6" met="-+-+-+-+-+-">Su no caduca hoja, sea Rama</l>
+                <l n="7" met="-+---+-+-+-">Dupliquente laurel, la flor, y escama</l>
+                <l n="8" met="-+--+-+++-+-">En premio de vna fe, que es tan crecida</l>
+                <l n="9" met="---+--+--+-">Activo Apolo, al Circulo de plata</l>
+                <l n="10" met="-+-+-+---+-">Victorias cante, que otro Coronista</l>
+                <l n="11" met="--+-++---+-">Suficiente no tiene la elocuencia</l>
+                <l n="12" met="+-+--+--++-">Trono a Dios ofrecile con fe grata</l>
+                <l n="13" met="-+-+---+-+-">Retorno logres, que a tu prole assista</l>
+                <l n="14" met="+-+--+---+-">I descienda de ti Real Ascendencia</l>
+            </lg>
+        </body>
+    </text>
+</TEI>
